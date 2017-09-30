@@ -1,0 +1,1 @@
+<root><styles><include src="./style.css"></include><include src="./style2.css"></include></styles><scripts><include src="./script.js"></include><include src="./script2.js"></include></scripts><Panel class="content"></Panel></root>
